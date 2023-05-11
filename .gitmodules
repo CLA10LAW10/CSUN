@@ -34,3 +34,6 @@
 [submodule "ECE_524_FPGA/Hot_Cold_Game"]
 	path = ECE_524_FPGA/Hot_Cold_Game
 	url = git@github.com:CLA10LAW10/HOT_CODE_GUESSING_GAME_FPGA.git
+[submodule "HDL_Template"]
+	path = HDL_Template
+	url = git@github.com:CLA10LAW10/HDL_Template.git
