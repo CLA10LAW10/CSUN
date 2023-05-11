@@ -1,0 +1,36 @@
+[submodule "ECE_524_FPGA/SSD_Keypad_Digital_Lock"]
+	path = ECE_524_FPGA/SSD_Keypad_Digital_Lock
+	url = git@github.com:CLA10LAW10/SSD_Keypad_Digital_Lock_FPGA.git
+[submodule "ECE_524_FPGA/FSM_Digital_Lock"]
+	path = ECE_524_FPGA/FSM_Digital_Lock
+	url = git@github.com:CLA10LAW10/FSM_Digital_Lock_FPGA.git
+[submodule "ECE_524_FPGA/SSD_Keypad"]
+	path = ECE_524_FPGA/SSD_Keypad
+	url = git@github.com:CLA10LAW10/SSD_Keypad_FPGA.git
+[submodule "ECE_524_FPGA/Pulse_Width_Modulation"]
+	path = ECE_524_FPGA/Pulse_Width_Modulation
+	url = git@github.com:CLA10LAW10/Pulse_Width_Modulation_FPGA.git
+[submodule "ECE_524_FPGA/Keypad_Hot_Cold"]
+	path = ECE_524_FPGA/Keypad_Hot_Cold
+	url = git@github.com:CLA10LAW10/Keypad_Hot_Cold_FPGA.git
+[submodule "ECE_524_FPGA/UART"]
+	path = ECE_524_FPGA/UART
+	url = git@github.com:CLA10LAW10/UART_FPGA.git
+[submodule "ECE_524_FPGA/Simon_Game"]
+	path = ECE_524_FPGA/Simon_Game
+	url = git@github.com:CLA10LAW10/Simon_Game_FPGA.git
+[submodule "ECE_524_FPGA/VGA"]
+	path = ECE_524_FPGA/VGA
+	url = git@github.com:CLA10LAW10/VGA_FPGA.git
+[submodule "ECE_524_FPGA/Memory"]
+	path = ECE_524_FPGA/Memory
+	url = git@github.com:CLA10LAW10/Memory_FPGA.git
+[submodule "ECE_524_FPGA/Mix_Adder"]
+	path = ECE_524_FPGA/Mix_Adder
+	url = git@github.com:CLA10LAW10/Mix_Adder_FPGA.git
+[submodule "ECE_524_FPGA/Hello_World"]
+	path = ECE_524_FPGA/Hello_World
+	url = git@github.com:CLA10LAW10/Hello_World_FPGA.git
+[submodule "ECE_524_FPGA/Hot_Cold_Game"]
+	path = ECE_524_FPGA/Hot_Cold_Game
+	url = git@github.com:CLA10LAW10/HOT_CODE_GUESSING_GAME_FPGA.git
